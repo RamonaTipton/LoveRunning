@@ -113,7 +113,7 @@ main {
     color: #ffffff;
 }
 
-/* Reasons */
+/* Reasons section */
 
 #reasons {
     width: 90%;
@@ -129,6 +129,15 @@ main {
 #benefits-physical>div, #benefits-mental>div {
     line-height: 20px;
     margin-bottom: 20px;
+}
+
+#benefits p |{
+    padding: 0 20px;
+}
+
+hr {
+    border-top: 1px solid #3a3a3a;
+    margin: 5px 0;
 }
 
 /* Footer */
